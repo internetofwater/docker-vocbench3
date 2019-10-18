@@ -37,5 +37,6 @@ $ sudo docker run hello-world
 ```
 cd ~
 sudo dockerd
+cd docker-vocbench3
 sudo docker-compose up
 ```
