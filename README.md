@@ -30,8 +30,17 @@ $ sudo apt-get update
 $ sudo apt-get install docker-ce docker-ce-cli containerd.io
 $ sudo docker run hello-world
 ```
+2. Install docker-compose
+```
 
-2. Run docker 
+```
+
+3. CLone repository
+```
+git clone https://github.com/internetofwater/docker-vocbench3.git
+```
+
+4. Compose docker image
 
 
 ```
